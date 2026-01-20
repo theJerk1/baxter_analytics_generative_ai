@@ -1,1 +1,1 @@
-# baxter_analytics_generative_ai
+# analytics_generative_ai
