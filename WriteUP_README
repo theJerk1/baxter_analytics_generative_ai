@@ -1,0 +1,29 @@
+Using the embedded instructions on the Word document with title including "eCommerce Project screenshots", I also downloaded the workbook from here https://github.com/Simplilearn-Edu/BA-With-Excel-Revamp-2021 
+
+I created 3 charts from the existing data on that Excel Workbook in the tab labeled "Working".
+I created a third tab named "Dashboard"
+From the Products & Category I created a combo-box, which I moved to the Dashboard tab
+I created the Sales & Profit, Regional Sales [and for some reason they also did the Bin chart (aka Orders Age-wise)] using data in the first table containing Headers: Months, Sales, Profits.
+  Formulas reverified for the 'Sales by Month' and 'Profit by Month' as well as 'Regional Sales' - in all cases  "=SUMIFS" and reverified using multiple filters and other methods.
+
+I do not know why there is a Bin Histogram or chart, no one asked/no deliverable mentioned, based on the embedded Word document containing instructions. At no point did I see any mention of a need for this information or a third chart (or a second chart for that matter, to represent this data, but the instructor and others have put 2 other charts on this dashboard, so I have caved to peer pressure.  See .xlsx document and this write up. 
+
+
+LITERALLY THE Directions: 
+
+"The following project tasks are required to be performed in Excel:
+•	Use the saved Sample E-Commerce database ***github link with db/workbook above
+•	Prepare a table of Sales and Profit month-wise in a working sheet
+•	Prepare the sales table region-wise in the working sheet
+•	Create User Control Combo box for Product Category
+•	Create a Column Chart of the month-wise table and region-wise table
+•	Link the table with a combo box.
+•	Create a dashboard and calculate the predicted and actual tips values.
+•	Calculate the RMSE(Root Mean Square Error) of the model. RMSE is the root of the mean of square errors.
+
+Tools required: Microsoft Excel, Data Analysis Add-in
+
+Expected Deliverables:  
+Design a sales dashboard that analyses the sales based on various product categories. 
+The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly."
+
